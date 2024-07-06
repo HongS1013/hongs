@@ -1,24 +1,12 @@
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2022
+- name: Lin Xia
+  location: Learning Sciences and Technologies at University of Pennsylvania
+  degree: Master 
+  year: 2023
+  project: Project：The design of a learning analytics dashboard to support teacher inquiry  
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2021
+- name: Xinrui Fan	
+  location: Sichuan Normal University 
+  degree: Undergradute 
+  year: 2016
+  project: Event：FLTRP Cup National English Speaking Contest - Provincial Level
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2020
-
-- name: Student Here
-  location: Univesity Here
-  degree: M.S.
-  year: 2020
-
-- name: Student Here
-  location: Univesity Here
-  degree: B.S.
-  year: 2020

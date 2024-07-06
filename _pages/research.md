@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "research"
 layout: gridlay
 sitemap: false
 permalink: /research/
@@ -30,11 +30,11 @@ iframe {
 }
 </style>
 
-## Research
+## Projects
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+<h4>The design and development of a learning analytics dashboard to support teacher inquiry</h4>
 
 Example description
 </div>

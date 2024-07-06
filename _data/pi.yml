@@ -1,17 +1,19 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+- name: Hong Shui
+  photo: hong.png
+  info: Hong Shui, PhD in Learning Technologies, UMN
+  email: shui0003@umn.edu
+  linkedin: https://www.linkedin.com/in/hong-shui-20659a170/ 
+  researchgate: https://www.researchgate.net/profile/Hong-Shui/research 
+  scholar: https://scholar.google.com/citations?user=oIS2bEoAAAAJ&hl=en&oi=ao 
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2024) Ph.D. Learning Technologies, University of Minnesota",
+      "(2023) Graduate Certificate, Learning Analytics, University of Minnesota", 
+      "(2010) Master of Arts, Cultural Studies, Sichuan University",
+      "(2004) Bachelor, English, Sichuan University"
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2024) Ph.D. LT, UMN", "(2010) M.A. Cultural Studies, SCU", "(2004), B.A. English, SCU"]
