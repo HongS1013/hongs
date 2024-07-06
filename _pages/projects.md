@@ -47,7 +47,7 @@ iframe {
 <div class="col-md-8 col-sm-8">
 
 <b>Researchers: </b>
-<i>Hong (lead), Xinran, and Bodong</i>
+<i>Hong, Xinran, and Bodong</i>
 
 
 In this project, we engaged three university teachers in co-designing a teacher-facing dashboard of social annotation activities. By incorporating design elements as reference points of the analytics, the designed dashboard supports teacher inquiry and provides insights for teachers to reflect on and adjust their learning design and teaching practice. 

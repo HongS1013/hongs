@@ -47,7 +47,7 @@ permalink: /talks/
 <div>
 ### Invited Talks
 <p> 
-1. The integration of technology into English learning in the national workshop sponsored by Foreign Language Teaching and Research Press (FLTRP) in the year of [2016](https://heep.fltrp.com/contents/17124643120003072?type=1), [2017](https://www.fltrp.com/c/2017-08-03/493259.shtml), and [2018](https://www.fltrp.com/c/2018-07-30/493062.shtml). <i> (Note:the news are written in Chinese) </i>
+1. The integration of technology into English learning in the national workshop sponsored by Foreign Language Teaching and Research Press (FLTRP) in the year of [2016](https://heep.fltrp.com/contents/17124643120003072?type=1), [2017](https://www.fltrp.com/c/2017-08-03/493259.shtml), and [2018](https://www.fltrp.com/c/2018-07-30/493062.shtml). <i> (Note: the news are written in Chinese) </i>
 
 </p>
 

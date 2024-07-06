@@ -19,7 +19,7 @@ permalink: /about/
   {% if member.linkedin %} <a href="{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a> {% endif %}
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
-  {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
+  <a href="https://docs.google.com/document/d/1WX__L0IB_3oUd7UNP45u7cUwa0rPIV762m8OVRwDsso/edit?usp=sharing" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a>
 
   <ul style="overflow: hidden">
     {% for education in member.education %}
