@@ -27,7 +27,7 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
-  - name: teaching
+  - name: design-teach
   - name: projects
   - name: publications
   - name: talks

@@ -1,13 +1,20 @@
 ---
-title: "Teaching"
+title: "Design-Teach"
 layout: gridlay
 sitemap: false
-permalink: /teaching/
+permalink: /design-teach/
 ---
+
+## <i> Instructional Design </i>
+<b> Instructional Designer | College of Design, University of Minnesota Twin Cities, 2022 - 2024 </b>
+* Supporting multiple faculty members’ online teaching on Canvas and Coursera
+* Serving as a core member in the college’s online learning initiatives by facilitating learning design, technology integration, logistics management, and student services
+* Forging strong partnerships with a diverse array of stakeholders
+
 
 ## <i> Teaching </i>
 
-<b> Graduate Instructor | University of Minnesota, 2018 - 2023 </b>
+<b> Graduate Instructor | College of Human Development and Education, University of Minnesota, 2018 - 2023 </b>
 <p> <i> Learning Technologies Undergraduate Minor Program </i></p>
 * CI2311W Introduction to Technology and Ethics in Society, 2021 Spring, 2020 Spring
 * CI3342 Social Media & Connected Learning, 2022 Spring, 2021 Fall
